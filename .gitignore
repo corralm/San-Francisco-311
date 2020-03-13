@@ -12,7 +12,6 @@
 *.crc
 _SUCCESS
 
-
 # Jupyter checkpoints
 *checkpoint.*
 
@@ -22,3 +21,6 @@ _SUCCESS
 
 # Tableau
 *.twbr
+
+# Large files
+data/311_Cases.csv
