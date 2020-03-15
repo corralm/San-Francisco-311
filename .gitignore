@@ -12,8 +12,8 @@
 *.crc
 _SUCCESS
 
-
 # Jupyter checkpoints
+.ipynb_checkpoints
 *checkpoint.*
 
 # pickles
@@ -22,5 +22,7 @@ _SUCCESS
 
 # Tableau
 *.twbr
-P5_SF311.twbx
+
+# Large files
 data/311_Cases.csv
+P5_SF311.twbx
